@@ -1,0 +1,3 @@
+F:\Dev\MQ\MQ\bin\Debug\ConsoleApplication1.exe.config
+F:\Dev\MQ\MQ\obj\Debug\ConsoleApplication1.exe
+F:\Dev\MQ\MQ\obj\Debug\ConsoleApplication1.pdb
