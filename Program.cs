@@ -17,7 +17,8 @@ namespace ConsoleApplication1
             {
                 // AppSettings["CLOUDAMQP_URL"] contains the connection string
                 // when you've added the CloudAMQP Addon
-                Uri = System.Configuration.ConfigurationManager.AppSettings["CLOUDAMQP_URL"]
+                //Uri = System.Configuration.ConfigurationManager.AppSettings["CLOUDAMQP_URL"];
+                Uri = "amqp://rryotcdm:DPRstPbeaC4SNGsFKzhrJR0MaTfw-rEB@owl.rmq.cloudamqp.com/rryotcdm"
             };
 
             // Open up a connection and a channel (a connection may have many channels)
