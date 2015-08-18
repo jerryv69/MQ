@@ -37,7 +37,7 @@ namespace ConsoleApplication1
                 // publish to the "default exchange", with the queue name as the routing key
                 channel.BasicPublish("", "queue1", null, data);
 
-                System.Console.WriteLine("Message Published Done");
+                System.Console.WriteLine("Message Published Done"); 
             }
         }
     }
